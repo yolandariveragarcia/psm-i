@@ -14,7 +14,7 @@
 ## Practice Tests
 FREE:
 * [Scrum Open](https://www.scrum.org/open-assessments/scrum-open)
-* [Product Owner Open]([https://www.scrum.org/assessments/professional-scrum-developer-certification](https://www.scrum.org/open-assessments/product-owner-open)
+* [Product Owner Open](https://www.scrum.org/open-assessments/product-owner-open/)
 * [Nexus Open](https://www.scrum.org/open-assessments/nexus-open)
 * [DAYPO](https://www.daypo.com/rp-psm-i.html)
 * [Mikhail Lapshin](http://mlapshin.com/index.php/psm-quiz/learning-mode/) (Not updated 2020)
