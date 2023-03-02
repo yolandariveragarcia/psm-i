@@ -6,7 +6,7 @@
 
 ## Preparation
 
-* [Guide Scrum](https://scrumguides.org/download.html)
+* [Guide Scrum 2020](https://scrumguides.org/download.html)
 * [Agile Manifesto](https://agilemanifesto.org/)
 * [Suggested Reading for Professional Scrum Master™ I](https://www.scrum.org/resources/suggested-reading-professional-scrum-master)
 * [Scrum Insights for Practitioners: The Scrum Guide Companion](https://amzn.to/3yorqXb)
